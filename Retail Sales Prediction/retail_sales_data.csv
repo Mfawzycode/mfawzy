@@ -1,0 +1,7 @@
+Date,Store,Product,Sales,Price,Promotion
+2023-01-01,Store A,Product A,10,100,Yes
+2023-01-01,Store B,Product B,5,200,No
+2023-01-02,Store A,Product C,8,150,Yes
+2023-01-03,Store B,Product D,15,100,No
+2023-01-04,Store A,Product A,20,300,Yes
+2023-01-05,Store B,Product B,25,250,No
